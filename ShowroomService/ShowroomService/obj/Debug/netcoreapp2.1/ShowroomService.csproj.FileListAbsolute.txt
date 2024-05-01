@@ -1,0 +1,64 @@
+C:/Users/agha.khan/source/repos/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.deps.json
+C:/Users/agha.khan/source/repos/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.runtimeconfig.json
+C:/Users/agha.khan/source/repos/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.runtimeconfig.dev.json
+C:/Users/agha.khan/source/repos/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.dll
+C:/Users/agha.khan/source/repos/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.pdb
+C:/Users/agha.khan/source/repos/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.csprojAssemblyReference.cache
+C:/Users/agha.khan/source/repos/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.csproj.CoreCompileInputs.cache
+C:/Users/agha.khan/source/repos/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.RazorAssemblyInfo.cache
+C:/Users/agha.khan/source/repos/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.RazorAssemblyInfo.cs
+C:/Users/agha.khan/source/repos/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.AssemblyInfoInputs.cache
+C:/Users/agha.khan/source/repos/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.AssemblyInfo.cs
+C:/Users/agha.khan/source/repos/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.RazorTargetAssemblyInfo.cache
+C:/Users/agha.khan/source/repos/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.dll
+C:/Users/agha.khan/source/repos/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.pdb
+C:/SDET Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.deps.json
+C:/SDET Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.runtimeconfig.json
+C:/SDET Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.runtimeconfig.dev.json
+C:/SDET Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.dll
+C:/SDET Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.pdb
+C:/SDET Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.csprojAssemblyReference.cache
+C:/SDET Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.csproj.CoreCompileInputs.cache
+C:/SDET Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.RazorAssemblyInfo.cache
+C:/SDET Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.RazorAssemblyInfo.cs
+C:/SDET Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.AssemblyInfoInputs.cache
+C:/SDET Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.AssemblyInfo.cs
+C:/SDET Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.RazorTargetAssemblyInfo.cache
+C:/SDET Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.dll
+C:/SDET Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.pdb
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/appsettings.Development.json
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/appsettings.json
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.deps.json
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.runtimeconfig.json
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.runtimeconfig.dev.json
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.dll
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.pdb
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.csprojAssemblyReference.cache
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.AssemblyInfoInputs.cache
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.AssemblyInfo.cs
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.csproj.CoreCompileInputs.cache
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.RazorAssemblyInfo.cache
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.RazorAssemblyInfo.cs
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.RazorTargetAssemblyInfo.cache
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.dll
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.pdb
+C:/Users/sbandal/WorkDocs/SDETAssessment/SDETTest_SudheerK/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.genruntimeconfig.cache
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.deps.json
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.runtimeconfig.json
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.runtimeconfig.dev.json
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.dll
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/bin/Debug/netcoreapp2.1/ShowroomService.pdb
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.csprojAssemblyReference.cache
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.AssemblyInfoInputs.cache
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.AssemblyInfo.cs
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.csproj.CoreCompileInputs.cache
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.RazorAssemblyInfo.cache
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.RazorAssemblyInfo.cs
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.RazorTargetAssemblyInfo.cache
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.dll
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.pdb
+/Users/oleksandr.kolomiyets/Desktop/sample-project/AngloSDET-Test/ShowroomService/ShowroomService/obj/Debug/netcoreapp2.1/ShowroomService.genruntimeconfig.cache
