@@ -1,9 +1,9 @@
-import { Before, After } from "@cucumber/cucumber";
+import {Before, After} from "@cucumber/cucumber";
 
 Before(async function () {
-  // Setup before scenarios
+    // Setup before scenarios
 });
 
 After(async function () {
-  // Cleanup after scenarios
+    // Cleanup after scenarios
 });
